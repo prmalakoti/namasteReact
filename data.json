@@ -1,0 +1,1739 @@
+[
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 19434922,
+      "name": "Joshi Wadewale",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/6/12006/dc738684081022563dfdeb939408177b_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/6/12006/dc738684081022563dfdeb939408177b_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.0",
+        "rating_text": "4.0",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "2,522",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.8",
+            "reviewCount": "14",
+            "reviewTextSmall": "14 Reviews",
+            "subtext": "14 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.8",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "4.2",
+            "reviewCount": "2,508",
+            "reviewTextSmall": "2,508 Reviews",
+            "subtext": "2,508 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "4.2",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "700"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9200 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Survey 4457, Rakshewasti Maan Tal, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/street-food/",
+          "name": "Street Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/maharashtrian/",
+          "name": "Maharashtrian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/south-indian/",
+          "name": "South Indian"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "29 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/joshi-wadewale-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/joshi-wadewale-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "1.6 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19434922\",\"element_type\":\"listing\",\"rank\":1}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 19231441,
+      "name": "Domino's Pizza",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/6/10506/e8cf1c58f2bb217f3d85ff50b7fe39a3_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/6/10506/e8cf1c58f2bb217f3d85ff50b7fe39a3_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.4",
+        "rating_text": "3.4",
+        "rating_subtitle": "Average",
+        "rating_color": "CDD614",
+        "votes": "1,889",
+        "subtext": "REVIEW",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "2.7",
+            "reviewCount": "25",
+            "reviewTextSmall": "25 Reviews",
+            "subtext": "25 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "2.7",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "yellow",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "4.0",
+            "reviewCount": "1,864",
+            "reviewTextSmall": "1,864 Reviews",
+            "subtext": "1,864 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "4.0",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "700"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9400 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Shop 35, 5 Blueridge Township, Hinjawadi Phase 1, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/italian/",
+          "name": "Italian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pasta/",
+          "name": "Pasta"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "20 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/dominos-pizza-8-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/dominos-pizza-8-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "1 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19231441\",\"element_type\":\"listing\",\"rank\":2}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [
+      {
+        "text": "20% OFF",
+        "color": {
+          "tint": "500",
+          "type": "blue"
+        }
+      }
+    ],
+    "isDisabled": false,
+    "bottomContainers": [
+      {
+        "image": {
+          "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+          "aspect_ratio": 2.66666666667
+        },
+        "text": "Follows all Max Safety measures to ensure your food is safe"
+      }
+    ]
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 18794581,
+      "name": "Cakes N Bites - The Cake and Cafe Shop",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/1/18794581/0005fe35100e0992298eeebeb56f9e64_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/1/18794581/0005fe35100e0992298eeebeb56f9e64_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.4",
+        "rating_text": "3.4",
+        "rating_subtitle": "Average",
+        "rating_color": "CDD614",
+        "votes": "82",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.6",
+            "reviewCount": "7",
+            "reviewTextSmall": "7 Reviews",
+            "subtext": "7 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.6",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "3.1",
+            "reviewCount": "75",
+            "reviewTextSmall": "75 Reviews",
+            "subtext": "75 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "3.1",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "500"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9200 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "House 417, Salunke Nagar, Bharne Wasti, Maan, Mulshi, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/bakery/",
+          "name": "Bakery"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "25 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/cakes-n-bites-the-cake-and-cafe-shop-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/cakes-n-bites-the-cake-and-cafe-shop-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "2.8 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18794581\",\"element_type\":\"listing\",\"rank\":3}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [
+      {
+        "text": "10% OFF",
+        "color": {
+          "tint": "500",
+          "type": "blue"
+        }
+      }
+    ],
+    "isDisabled": false,
+    "bottomContainers": [
+      {
+        "image": {
+          "url": "https://b.zmtcdn.com/data/o2_assets/695598f38d29d0e5d3f8ffe57cfdb94c1613145422.png",
+          "aspect_ratio": 2.0625
+        },
+        "text": "Restaurant partner follows WHO protocol"
+      }
+    ]
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 6506349,
+      "name": "Karolbaug The Dhaba",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/9/6506349/dccb4150cc9e5848ea99d071d00e61e2_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/9/6506349/dccb4150cc9e5848ea99d071d00e61e2_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.9",
+        "rating_text": "3.9",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "5,975",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.8",
+            "reviewCount": "1,172",
+            "reviewTextSmall": "1,172 Reviews",
+            "subtext": "1,172 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.8",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "3.9",
+            "reviewCount": "4,803",
+            "reviewTextSmall": "4,803 Reviews",
+            "subtext": "4,803 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "3.9",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9850 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "1228, Near - Infosys Circle Next To MIDC Power House, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "Opens at 7pm",
+        "color": "#ab000d"
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/kebab/",
+          "name": "Kebab"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mughlai/",
+          "name": "Mughlai"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/ice-cream/",
+          "name": "Ice Cream"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "30 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/karolbaug-the-dhaba-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/karolbaug-the-dhaba-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.2 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"6506349\",\"element_type\":\"listing\",\"rank\":4}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [
+      {
+        "text": "20% OFF",
+        "color": {
+          "tint": "500",
+          "type": "blue"
+        }
+      }
+    ],
+    "isDisabled": false,
+    "bottomContainers": [
+      {
+        "image": {
+          "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+          "aspect_ratio": 2.66666666667
+        },
+        "text": "Follows all Max Safety measures to ensure your food is safe"
+      }
+    ]
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20487148,
+      "name": "Pizza Hut",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/3/10503/7d1f0c24bf8d0ddf5aad917a9cc1d216_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/3/10503/7d1f0c24bf8d0ddf5aad917a9cc1d216_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.4",
+        "rating_text": "3.4",
+        "rating_subtitle": "Average",
+        "rating_color": "CDD614",
+        "votes": "917",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.1",
+            "reviewCount": "12",
+            "reviewTextSmall": "12 Reviews",
+            "subtext": "12 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.1",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "500"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "3.6",
+            "reviewCount": "905",
+            "reviewTextSmall": "905 Reviews",
+            "subtext": "905 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "3.6",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9700 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Shop 4-5, VJ Happiness Street, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pasta/",
+          "name": "Pasta"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "30 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/pizza-hut-4-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/pizza-hut-4-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.7 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20487148\",\"element_type\":\"listing\",\"rank\":5}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20155331,
+      "name": "Heshel - Authenticity From The Kitchens Of Kolkata",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/1/20155331/ce715e03845643e3343d2b2ba26cb60e_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/1/20155331/ce715e03845643e3343d2b2ba26cb60e_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.1",
+        "rating_text": "4.1",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "1,009",
+        "subtext": "REVIEW",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "4.0",
+            "reviewCount": "21",
+            "reviewTextSmall": "21 Reviews",
+            "subtext": "21 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "4.0",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "700"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "4.2",
+            "reviewCount": "988",
+            "reviewTextSmall": "988 Reviews",
+            "subtext": "988 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "4.2",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "700"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9500 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Shop 11, Royal Market, Main Road, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/bengali/",
+          "name": "Bengali"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mughlai/",
+          "name": "Mughlai"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/biryani/",
+          "name": "Biryani"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/rolls/",
+          "name": "Rolls"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "36 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/heshel-authenticity-from-the-kitchens-of-kolkata-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/heshel-authenticity-from-the-kitchens-of-kolkata-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "4.8 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20155331\",\"element_type\":\"listing\",\"rank\":6}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [
+      {
+        "text": "10% OFF",
+        "color": {
+          "tint": "500",
+          "type": "blue"
+        }
+      }
+    ],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20511004,
+      "name": "McDonald's",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/4/20511004/56ee65e79369aeaa3d3f86c8d3d9ff0b_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/4/20511004/56ee65e79369aeaa3d3f86c8d3d9ff0b_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "4.3",
+        "rating_text": "4.3",
+        "rating_subtitle": "Very Good",
+        "rating_color": "5BA829",
+        "votes": "980",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "",
+            "reviewCount": "0",
+            "reviewTextSmall": "0 Reviews",
+            "subtext": "Does not offer Dining",
+            "color": "",
+            "ratingV2": "-",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "grey",
+              "tint": "500"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "4.3",
+            "reviewCount": "980",
+            "reviewTextSmall": "980 Reviews",
+            "subtext": "980 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "4.3",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "700"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9400 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Shop 1, Ground Floor, Hinjewadi Phase 2, Vj Happy Street, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/burger/",
+          "name": "Burger"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "43 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/mcdonalds-3-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/mcdonalds-3-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.7 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20511004\",\"element_type\":\"listing\",\"rank\":7}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [
+      {
+        "text": "10% OFF",
+        "color": {
+          "tint": "500",
+          "type": "blue"
+        }
+      }
+    ],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20590590,
+      "name": "Coffee And More",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/0/20590590/4b40bc2515c73c5a572e810b27dd9fe7_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/0/20590590/4b40bc2515c73c5a572e810b27dd9fe7_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.9",
+        "rating_text": "3.9",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "89",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.9",
+            "reviewCount": "13",
+            "reviewTextSmall": "13 Reviews",
+            "subtext": "13 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.9",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "3.8",
+            "reviewCount": "76",
+            "reviewTextSmall": "76 Reviews",
+            "subtext": "76 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "3.8",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9450 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Rajiv Gandhi IT Park, Hinjewadi, Pune",
+        "address": "Shop 3, 27, Ground Floor, Happiness Street, Rajiv Gandhi IT Park, Phase 2 Road, Hinjawadi, Pune",
+        "localityUrl": "pune/restaurants/in/rajiv-gandhi-it-park-hinjewadi"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/cafes/",
+          "name": "Cafe"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/coffee/",
+          "name": "Coffee"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sandwich/",
+          "name": "Sandwich"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/sea-food/",
+          "name": "Seafood"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQxXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/steak/",
+          "name": "Steak"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/beverages/",
+          "name": "Beverages"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "35 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/coffee-and-more-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/coffee-and-more-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.6 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20590590\",\"element_type\":\"listing\",\"rank\":8}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20723226,
+      "name": "Haldiram's Sweets And Namkeen",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/8/19483738/10677e870d174d5d5d5d3681f840ce15_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/8/19483738/10677e870d174d5d5d5d3681f840ce15_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.9",
+        "rating_text": "3.9",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "109",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.5",
+            "reviewCount": "2",
+            "reviewTextSmall": "2 Reviews",
+            "subtext": "2 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.5",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "4.2",
+            "reviewCount": "107",
+            "reviewTextSmall": "107 Reviews",
+            "subtext": "107 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "4.2",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "700"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9400 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Shop 7 And 8, Ground Floor, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxNVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/mithai/",
+          "name": "Mithai"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/street-food/",
+          "name": "Street Food"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/bakery/",
+          "name": "Bakery"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/desserts/",
+          "name": "Desserts"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "38 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/haldirams-sweets-and-namkeen-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/haldirams-sweets-and-namkeen-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.6 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20723226\",\"element_type\":\"listing\",\"rank\":9}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20533627,
+      "name": "Cheesiano Pizza",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/9/6507609/9b51e3f85654b9588558b2a11ece5d27_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/9/6507609/9b51e3f85654b9588558b2a11ece5d27_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.7",
+        "rating_text": "3.7",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "849",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.7",
+            "reviewCount": "20",
+            "reviewTextSmall": "20 Reviews",
+            "subtext": "20 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.7",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "3.6",
+            "reviewCount": "829",
+            "reviewTextSmall": "829 Reviews",
+            "subtext": "829 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "3.6",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9500 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "286/4/1/ C, Shop.9, VJ Happiness Street, Vilas Javdekar Eco Shelters Private Limited, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pizza/",
+          "name": "Pizza"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/pasta/",
+          "name": "Pasta"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/fast-food/",
+          "name": "Fast Food"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "29 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/cheesiano-pizza-2-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/cheesiano-pizza-2-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.6 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20533627\",\"element_type\":\"listing\",\"rank\":10}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [
+      {
+        "text": "50% OFF",
+        "color": {
+          "tint": "500",
+          "type": "blue"
+        }
+      }
+    ],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20723302,
+      "name": "Haldiram's Restaurant",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/3/19486133/1e672bb54277d66c2280c3a83938b99a_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/3/19486133/1e672bb54277d66c2280c3a83938b99a_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.8",
+        "rating_text": "3.8",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "469",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "",
+            "reviewCount": "0",
+            "reviewTextSmall": "0 Reviews",
+            "subtext": "Does not offer Dining",
+            "color": "",
+            "ratingV2": "-",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "grey",
+              "tint": "500"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "3.8",
+            "reviewCount": "469",
+            "reviewTextSmall": "469 Reviews",
+            "subtext": "469 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "3.8",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9300 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Shop 7 And 8, VJSH, Ground Floor, Phase 2, Mulshi, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/north-indian/",
+          "name": "North Indian"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "29 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/haldirams-restaurant-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/haldirams-restaurant-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.6 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20723302\",\"element_type\":\"listing\",\"rank\":11}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [],
+    "isDisabled": false,
+    "bottomContainers": []
+  },
+  {
+    "type": "restaurant",
+    "info": {
+      "resId": 20790346,
+      "name": "WOW! China",
+      "image": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/2/19199792/5ef084f6001898b1696e0d675680a589_o2_featured_v2.jpg"
+      },
+      "o2FeaturedImage": {
+        "url": "https://b.zmtcdn.com/data/pictures/chains/2/19199792/5ef084f6001898b1696e0d675680a589_o2_featured_v2.jpg"
+      },
+      "rating": {
+        "has_fake_reviews": 0,
+        "aggregate_rating": "3.7",
+        "rating_text": "3.7",
+        "rating_subtitle": "Good",
+        "rating_color": "9ACD32",
+        "votes": "72",
+        "subtext": "REVIEWS",
+        "is_new": false
+      },
+      "ratingNew": {
+        "newlyOpenedObj": null,
+        "suspiciousReviewObj": null,
+        "ratings": {
+          "DINING": {
+            "rating_type": "DINING",
+            "rating": "3.7",
+            "reviewCount": "0",
+            "reviewTextSmall": "0 Reviews",
+            "subtext": "0 Dining Reviews",
+            "color": "#1C1C1C",
+            "ratingV2": "3.7",
+            "subtitle": "DINING",
+            "sideSubTitle": "Dining Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            }
+          },
+          "DELIVERY": {
+            "rating_type": "DELIVERY",
+            "rating": "3.7",
+            "reviewCount": "72",
+            "reviewTextSmall": "72 Reviews",
+            "subtext": "72 Delivery Reviews",
+            "color": "#E23744",
+            "ratingV2": "3.7",
+            "subtitle": "DELIVERY",
+            "sideSubTitle": "Delivery Reviews",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "600"
+            },
+            "newOnDelivery": false
+          }
+        }
+      },
+      "cft": {
+        "text": "\u20b9600 for two"
+      },
+      "cfo": {
+        "text": "\u20b950 for one"
+      },
+      "locality": {
+        "name": "Hinjawadi, Pune",
+        "address": "Shop 14, VJ Happiness Street, Hinjawadi, Pune",
+        "localityUrl": "pune/hinjawadi-restaurants"
+      },
+      "timing": {
+        "text": "",
+        "color": ""
+      },
+      "cuisine": [
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          "url": "https://www.zomato.com/pune/restaurants/chinese/",
+          "name": "Chinese"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjc4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/oriental/",
+          "name": "Oriental"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/asian/",
+          "name": "Asian"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTI4XCJdfSJd",
+          "url": "https://www.zomato.com/pune/restaurants/sichuan/",
+          "name": "Sichuan"
+        },
+        {
+          "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+          "url": "https://www.zomato.com/pune/restaurants/momos/",
+          "name": "Momos"
+        }
+      ],
+      "should_ban_ugc": false,
+      "costText": {
+        "text": "\u20b950 for one"
+      }
+    },
+    "order": {
+      "deliveryTime": "28 min",
+      "isServiceable": true,
+      "hasOnlineOrdering": true,
+      "actionInfo": {
+        "text": "Order Now",
+        "clickUrl": "/pune/wow-china-1-hinjawadi/order"
+      }
+    },
+    "gold": [],
+    "takeaway": [],
+    "cardAction": {
+      "text": "",
+      "clickUrl": "/pune/wow-china-1-hinjawadi/order",
+      "clickActionDeeplink": ""
+    },
+    "distance": "3.6 km",
+    "isPromoted": false,
+    "promotedText": "",
+    "trackingData": [
+      {
+        "table_name": "zsearch_events_log",
+        "payload": "{\"search_id\":\"39311b0a-f231-448c-a067-ee939a823b59\",\"location_type\":\"delivery_cell\",\"location_id\":\"4306210638838890496\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20790346\",\"element_type\":\"listing\",\"rank\":12}",
+        "event_names": {
+          "tap": "{\"action\":\"tap\"}",
+          "impression": "{\"action\":\"impression\"}"
+        }
+      }
+    ],
+    "allCTA": [],
+    "promoOffer": "",
+    "checkBulkOffers": true,
+    "bulkOffers": [
+      {
+        "text": "60% OFF",
+        "color": {
+          "tint": "500",
+          "type": "blue"
+        }
+      }
+    ],
+    "isDisabled": false,
+    "bottomContainers": []
+  }
+]
