@@ -1,6 +1,7 @@
 # namasteReact
 
 # parcel
+
 - Dev Build
 - Local server
 - Hot Module Replacement
@@ -18,4 +19,42 @@
 - Different dev(npx parcel -D index.html) and prod(npx parcle index.html) bundles
 
 # Browsers List
+
 - https://browserslist.dev/
+
+# Namaste Food
+
+/\*\*
+
+- Header
+- - Logo
+- - Nav Items
+- Body
+- - Search
+- - RestaurantCard
+-      - RestaurantCard
+-          - Img
+- Footer
+- - Copyright
+- - Address
+- - Contact
+
+Two types of Export/Import
+
+- Default Export/Import
+  export default Component:
+  import Component from "path"
+
+- Named Export/Import
+
+export const Component;
+import {Component} from "path";
+
+# Note we can use Both at a time default & named component
+
+# React Hooks
+
+- Normal JS function developed by Facebook dev team
+- Two very impartent hooks
+  - useState()
+  - useEffect()
