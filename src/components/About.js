@@ -16,8 +16,8 @@ class About extends React.Component {
         return (
             <div>
                 <h1 className="about-header">About Mera Food</h1>
-                {/* <ProfileClass name={"Prashant Malakoti (class)"} /> */}
-                <Profile name={"Prashant Malakoti (class)"} />
+                <ProfileClass name={"Prashant Malakoti (class)"} />
+                {/* <Profile name={"Prashant Malakoti (class)"} /> */}
             </div>
         )
     }
