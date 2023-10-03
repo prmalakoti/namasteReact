@@ -91,3 +91,15 @@
     cursor: pointer;
     background-color:aliceblue;
 }
+
+.user-card {
+    padding: 10px;
+    border: 2px solid;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.about-header{
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}

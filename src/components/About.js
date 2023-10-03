@@ -1,10 +1,50 @@
-const About = () => {
-    return (
-        <div>
-            <h1>About Mera Food</h1>
-            <p>Launched in 2010, Our technology platform connects customers, restaurant partners and delivery partners, serving their multiple needs. Customers use our platform to search and discover restaurants, read and write customer generated reviews and view and upload photos, order food delivery, book a table and make payments while dining-out at restaurants. On the other hand, we provide restaurant partners with industry-specific marketing tools which enable them to engage and acquire customers to grow their business while also providing a reliable and efficient last mile delivery service. We also operate a one-stop procurement solution, Hyperpure, which supplies high quality ingredients and kitchen products to restaurant partners. We also provide our delivery partners with transparent and flexible earning opportunities.</p>
-        </div>
-    )
+import Profile from "./Profile";
+import ProfileClass from "./ProfileClass";
+import React from "react";
+
+class About extends React.Component {
+    constructor(props) {
+        super(props);
+        //console.log("Parent Constucter");
+    }
+
+    componentDidMount() {
+        //console.log("Parent componentdidmount");
+    }
+    render() {
+        //console.log("Parent render");
+        return (
+            <div>
+                <h1 className="about-header">About Mera Food</h1>
+                {/* <ProfileClass name={"Prashant Malakoti (class)"} /> */}
+                <Profile name={"Prashant Malakoti (class)"} />
+            </div>
+        )
+    }
 }
+/*
+- Parent Constucter
+- Parent render
+    - Prashant Malakoti (class1) Childern Constucter
+    - Prashant Malakoti (class1) Children render
+
+    - Prashant Malakoti (class2) Childern Constucter
+    - Prashant Malakoti (class2) Children render
+
+    - Prashant Malakoti (class1) Child componentdidmount
+    - Prashant Malakoti (class2) Child componentdidmount
+
+- Parent componentdidmount
+
+*/
+// const About = () => {
+//     return (
+//         <div>
+//             <h1>About Mera Food</h1>
+//             {/* <User name={"Prashant Malakoti (function)"} /> */}
+//             <UserClass name={"Prashant Malakoti (class)"} />
+//         </div>
+//     )
+// }
 
 export default About;

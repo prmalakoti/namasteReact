@@ -63,3 +63,24 @@ import {Component} from "path";
 
 - Client Side Routing
 - Server Side Routing
+
+# Mounting
+
+- Constructor (dummy)
+- Render (dummy)
+  - HTML Dummy
+- Component Did Mount
+  - API Call
+  - this.setState
+
+# Update Cycle
+
+- Render(Actual api data)
+  - HTML loaded with new API data
+- Component Did update
+
+# Un-Mountning
+
+- whenevr user moveout the page(componet) componentWillUnmount will called
+
+- Referance: https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/

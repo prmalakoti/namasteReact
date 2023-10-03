@@ -7,7 +7,7 @@ const Header = () => {
         setState(state === "Login" ? "Logout" : "Login");
     }
     useEffect(() => {
-        console.log("useEffect called");
+        //console.log("useEffect called");
     }, [])
     return (
         <div className="header">
