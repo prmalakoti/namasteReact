@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import RestaurantCard from "./RestaurantCard";
 import Shimmar from "./Shimmer";
-
+import { Link } from "react-router-dom";
 
 const Body = () => {
     // Local State variable - Supper powerfull  variable
@@ -10,7 +10,6 @@ const Body = () => {
     const [searchText, setSearchText] = useState([]);
 
     useEffect(() => {
-        console.log("useEffect called");
         fetchData();
     }, []);
 
@@ -30,19 +29,23 @@ const Body = () => {
             <div className="body">
                 <div className="filter">
                     <div className="search">
-                        <input type="text" className="search-box" value={searchText}
+                        <input type="text" className="search-box" placeholder="Search what you want" value={searchText}
                             onChange={(e) => {
                                 setSearchText(e.target.value);
+                                let filterResto = listOfResaurants.filter((resto) =>
+                                    resto.info.name.toLowerCase().includes(e.target.value.toLowerCase())
+                                )
+                                setFilteredResto(filterResto);
                             }}
                         />
-                        <button className="search-btn"
+                        {/* <button className="search-btn"
                             onClick={() => {
                                 let filterResto = listOfResaurants.filter((resto) =>
                                     resto.info.name.toLowerCase().includes(searchText.toLowerCase())
                                 )
                                 setFilteredResto(filterResto);
                             }}
-                        >Search</button>
+                        >Search</button> */}
                     </div>
                     <button className="filter-btn"
                         onClick={() => {
@@ -63,7 +66,10 @@ const Body = () => {
                 <div className="resto-container">
                     {
                         filteredResto.map((item) => (
-                            <RestaurantCard key={item.info.resId} resdata={item} />
+                            <Link key={item.info.resId} to={"/restaurant/" + item.info.resId}>
+                                <RestaurantCard resdata={item} />
+                            </Link>
+                            // <RestaurantCard resdata={item} />
                         ))
                     }
                 </div>

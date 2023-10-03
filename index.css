@@ -1,7 +1,8 @@
 .header {
     display: flex;
     justify-content: space-between;
-    border: 1px solid black;
+    background-color:cornsilk;
+    height: fit-content;
 }
 
 .logo {
@@ -27,6 +28,8 @@
     margin: 5px;
     padding: 5px;
     width: 200px;
+    height: 350px;
+    text-decoration: none;
 }
 .res-card:hover{
     cursor: pointer;
@@ -49,8 +52,6 @@
     margin: 10px;
     width: 200px;
     height: 300px;
-    background-color: whitesmoke;
-
 }
 .shimmer-container {
     display: flex;
@@ -69,7 +70,24 @@
 
 .app-name{
     margin-left: 10px;
+    margin-right: 10px;
     color: chocolate;
     cursor: pointer;
     border-radius:0ex;
+}
+.menu{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.container-cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+.ul-list {
+    margin: 10px;
+    width: 30%;
+    height: 150px;
+    cursor: pointer;
+    background-color:aliceblue;
 }

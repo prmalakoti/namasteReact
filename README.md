@@ -58,3 +58,8 @@ import {Component} from "path";
 - Two very impartent hooks
   - useState()
   - useEffect()
+
+# 2 types Roting in web app
+
+- Client Side Routing
+- Server Side Routing
