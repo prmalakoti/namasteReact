@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import RestaurantCard from "./RestaurantCard";
 import Shimmar from "./Shimmer";
 import { Link } from "react-router-dom";
-
+import useOnlineStatus from "../utils/useOnlineStatus";
 const Body = () => {
     // Local State variable - Supper powerfull  variable
     const [listOfResaurants, setSate] = useState([]);
@@ -21,9 +21,11 @@ const Body = () => {
         setTimeout(function () {
             setSate(json);
             setFilteredResto(json);
-        }, 1000)
+        }, 3000)
     }
     console.log("Body Rendered");
+    const onlineStatus = useOnlineStatus();
+    if (onlineStatus === false) return <h1>Please check your internet connection...😥</h1>
     return listOfResaurants.length === 0 ? <Shimmar />
         : (
             <div className="body">
