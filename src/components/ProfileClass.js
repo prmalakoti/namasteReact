@@ -16,7 +16,6 @@ class ProfileClass extends React.Component {
         console.log(this.props.name, "Child componentdidmount");
         const data = await fetch("https://api.github.com/users/prmalakoti");
         const json = await data.json();
-        // console.log(json);
         this.setState({
             userInfo: json
         })
@@ -35,8 +34,8 @@ class ProfileClass extends React.Component {
         console.log(this.props.name, "Children render");
         const { name, location, bio, avatar_url } = this.state.userInfo
         return (
-            <div className="user-card">
-                <img style={{ height: "150px", width: "150px" }} src={avatar_url} />
+            <div className="px-10 py-2 ml-10 w-[400px] justify-center rounded-2xl bg-slate-100 hover:bg-slate-200 cursor-pointer">
+                <img className="h-[150px] w-[150px]" src={avatar_url} />
                 <h2> {name} </h2>
                 <h2> {location} </h2>
                 <h3>{bio}</h3>

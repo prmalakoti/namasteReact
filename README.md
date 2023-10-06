@@ -84,3 +84,5 @@ import {Component} from "path";
 - whenevr user moveout the page(componet) componentWillUnmount will called
 
 - Referance: https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+# https://tailwindcss.com/docs/guides/parcel

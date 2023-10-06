@@ -15,7 +15,7 @@ class About extends React.Component {
         //console.log("Parent render");
         return (
             <div>
-                <h1 className="about-header">About Mera Food</h1>
+                <h1 className="ml-10 about-header px-5 py-2 font-bold">About Mera Food Developer: </h1>
                 <ProfileClass name={"Prashant Malakoti (class)"} />
                 {/* <Profile name={"Prashant Malakoti (class)"} /> */}
             </div>
