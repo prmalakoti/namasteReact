@@ -1,5 +1,6 @@
-import React, { lazy, Suspense } from "react";
+import React, { lazy, Suspense, useEffect, useState } from "react";
 import ReactDOM from "react-dom/client";
+import UserContext from "./utils/UserContext";
 import Header from "./components/Header"
 import Body from "./components/Body"; /* default import */
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
@@ -19,11 +20,22 @@ dynamic import
 const Grocery = lazy(() => import("./components/Grocery"))
 
 const AppLayout = () => {
+    const [userInfo, setUserInfo] = useState();
+    //authentication
+    useEffect(() => {
+        //Make api call
+        const data = {
+            name: "Prashant Malakoti"
+        }
+        setUserInfo(data.name);
+    }, [])
     return (
-        <div className="app">
-            <Header></Header>
-            <Outlet /> {/* Outlet will filled whener is change the childer path */}
-        </div>
+        <UserContext.Provider value={{ loggedInUser: userInfo, setUserInfo }}>
+            <div className="app">
+                <Header></Header>
+                <Outlet /> {/* Outlet will filled whener is change the childer path */}
+            </div>
+        </UserContext.Provider>
     )
 }
 const appRouter = createBrowserRouter([

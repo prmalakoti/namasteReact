@@ -1,7 +1,7 @@
 import Profile from "./Profile";
 import ProfileClass from "./ProfileClass";
 import React from "react";
-
+import UserContext from "../utils/UserContext";
 class About extends React.Component {
     constructor(props) {
         super(props);
@@ -16,6 +16,9 @@ class About extends React.Component {
         return (
             <div>
                 <h1 className="ml-10 about-header px-5 py-2 font-bold">About Mera Food Developer: </h1>
+                <UserContext.Consumer>
+                    {(data) => <h1 className="ml-10 about-header px-5 py-2 font-bold"> {data.loggedInUser} </h1>}
+                </UserContext.Consumer>
                 <ProfileClass name={"Prashant Malakoti (class)"} />
                 {/* <Profile name={"Prashant Malakoti (class)"} /> */}
             </div>

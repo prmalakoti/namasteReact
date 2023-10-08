@@ -1,7 +1,8 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { LOGO_URL } from "../utils/constants" /* Named import */
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
+import userContext from "../utils/UserContext"
 const Header = () => {
     const [state, setState] = useState("Login")
     const checkLoginStatus = () => {
@@ -11,6 +12,8 @@ const Header = () => {
         //console.log("useEffect called");
     }, [])
     const onlineStatus = useOnlineStatus();
+    const data = useContext(userContext);
+    console.log("data", data);
     return (
         <div className="flex justify-between bg-pink-300 shadow-md sm:bg-gray-500 lg-xl:bg-gray-900">
             <div>
@@ -44,6 +47,7 @@ const Header = () => {
                     </li>
                     <li className="px-4"> Cart </li>
                     <li className="login px-4" onClick={() => checkLoginStatus()}> {state} </li>
+                    <li className="px-4 font-semibold">{data.loggedInUser}</li>
                 </ul>
             </div>
         </div>
