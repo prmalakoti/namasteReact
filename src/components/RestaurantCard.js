@@ -6,7 +6,7 @@ const RestaurantCard = (props) => {
             <img className="res-logo rounded-sm w-[250px] h-[150px]" alt="res-logo" src={image.url} />
             <h3 className="font-bold py-2 text-md"> {name} </h3>
             <h4> {cuisine.map((item) => item.name).join(', ')} </h4>
-            <h4 className="font-bold"> ⭐ {rating.rating_text} </h4>
+            <h4 className="font-bolb"> ⭐ {rating.rating_text} </h4>
             <h4 className="font-medium"> ⏳{resdata.order.deliveryTime} </h4>
         </div>
     )

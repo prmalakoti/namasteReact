@@ -86,3 +86,25 @@ import {Component} from "path";
 - Referance: https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
 # https://tailwindcss.com/docs/guides/parcel
+
+# Redux Toolkit
+
+- Intsall @reduxjs/toolkit & react-redux
+- Build our store
+- Connect our store to our app
+- Slice(cardSlice)
+- dispatch(action)
+- Selector
+
+# Types of testing (developer)
+
+- Unit Testing
+- Integration Testing
+- End to End Testing
+
+# Setting up Testing in our app
+
+- Install React Testing Library
+- Install Jest
+- Install Babel dependencies
+- Configure Bable
