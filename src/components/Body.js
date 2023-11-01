@@ -22,12 +22,14 @@ const Body = () => {
             "http://localhost:3000/data"
         );
         const json = await data.json();
-        setTimeout(function () {
-            setSate(json);
-            setFilteredResto(json);
-        }, 2000)
+        setSate(json);
+        setFilteredResto(json);
+        // setTimeout(function () {
+        //     setSate(json);
+        //     setFilteredResto(json);
+        // }, 2000)
     }
-    console.log("Body Rendered", listOfResaurants);
+    // console.log("Body Rendered", listOfResaurants);
     const onlineStatus = useOnlineStatus();
     if (onlineStatus === false) return <h1 className="align-middle font-bold py-2 px-5">Please check your internet connection...😥</h1>
 
@@ -35,10 +37,10 @@ const Body = () => {
 
     return listOfResaurants.length === 0 ? <Shimmar />
         : (
-            <div className="body">
+            <div data-testid="resCard" className="body ml-10 mr-10">
                 <div className="filter flex">
                     <div className="search px-2 py-2 m-10 flex">
-                        <input type="text" className="search-box border-1 border-black rounded-md focus-visible:text-left" placeholder="Search what you want" value={searchText}
+                        <input type="text" data-testid="searchInput" className="search-box border-1 border-black rounded-md focus-visible:text-left" placeholder="Search what you want" value={searchText}
                             onChange={(e) => {
                                 setSearchText(e.target.value);
                                 let filterResto = listOfResaurants.filter((resto) =>
@@ -48,13 +50,13 @@ const Body = () => {
                             }}
                         />
                     </div>
-                    <button className="filter-btn px-2 py-2 m-10 bg-gray-200 flex items-center rounded-lg"
+                    <button data-testid="rating" className="filter-btn px-2 py-2 m-10 bg-gray-200 flex items-center rounded-lg"
                         onClick={() => {
                             let filteredList = listOfResaurants.filter(
                                 (res) => res.info.rating.rating_text >= 4);
                             setFilteredResto(filteredList);
                         }}
-                    > Top Rated Restaurants </button>
+                    >Top Rated Restaurants</button>
 
                     <div className="search px-2 py-2 m-10 bg-gray-200 flex items-center rounded-lg">
                         <button className="clear-btn"

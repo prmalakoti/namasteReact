@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import { LOGO_URL } from "../utils/constants" /* Named import */
+import { LOGO_URL1 } from "../utils/constants" /* Named import */
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import userContext from "../utils/UserContext"
@@ -19,10 +19,11 @@ const Header = () => {
     const cartItems = useSelector((store) => store.cart.items);
     console.log(cartItems);
     return (
-        <div className="flex justify-between bg-pink-300 shadow-md sm:bg-gray-500 lg-xl:bg-gray-900">
+        // w-full fixed 
+        <div className="flex justify-between rounded-md bg-pink-300 shadow-md sm:bg-gray-500 lg-xl:bg-gray-900">
             <div>
-                <h1 className="ml-5 mt-5 mb-5 text-2xl font-extrabold cursor-pointer"> Food Hunter 😋 </h1>
-                {/* <img className="logo" src={LOGO_URL} /> */}
+                <h1 className="ml-5 mt-5 mb-5 text-3xl font-bold cursor-pointer italic"> Foodie...</h1>
+                {/* <img className="logo ml-2 mb-2 mt-2 w-60 h-16 rounded-xl" src={LOGO_URL1} /> */}
             </div>
             <div className="nav-item">
                 <ul className="flex p-15, mt-5 mb-5">

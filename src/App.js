@@ -11,7 +11,8 @@ import RestaurantMenu from "./components/RestaurantMenu";
 import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
 import Cart from "./components/Cart";
-
+import 'react-toastify/dist/ReactToastify.css';
+import Checkout from "./components/Checkout";
 /* Lazy loading use optimize the application */
 /*
 Chunkin
@@ -71,6 +72,10 @@ const appRouter = createBrowserRouter([
             {
                 path: "/cart",
                 element: <Cart />
+            },
+            {
+                path: "/checkout/:amt",
+                element: <Checkout />
             }
         ],
         errorElement: <Error />

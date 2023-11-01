@@ -14,8 +14,8 @@ class About extends React.Component {
     render() {
         //console.log("Parent render");
         return (
-            <div>
-                <h1 className="ml-10 about-header px-5 py-2 font-bold">About Mera Food Developer: </h1>
+            <div className="w-12/12">
+                <h1 className="about-header mt-5 ml-10 px-5 py-2 font-bold">About Food Hunter Developer: </h1>
                 <UserContext.Consumer>
                     {(data) => <h1 className="ml-10 about-header px-5 py-2 font-bold"> {data.loggedInUser} </h1>}
                 </UserContext.Consumer>
